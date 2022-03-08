@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Come back to hiago" | tr -d 'cC'
